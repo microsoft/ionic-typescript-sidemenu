@@ -1,0 +1,8 @@
+{
+  "name": "ionic-ts-sidemenu",
+  "app_id": "",
+   "gulpStartupTasks": [
+    "sass",
+    "watch"
+  ]
+}

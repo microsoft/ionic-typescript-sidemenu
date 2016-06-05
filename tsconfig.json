@@ -6,13 +6,13 @@
     "sourceMap": true,
     "outDir": "www/js"
   },  
-      "exclude": [
-        "node_modules", 
-        "typings/main",
-        "typings/main.d.ts",
-        "www/lib",
-        "platforms",
-        "bld",
-        ".vscode"
-      ]
+  "exclude": [
+    "node_modules", 
+    "typings/main",
+    "typings/main.d.ts",
+    "www/lib",
+    "platforms",
+    "bld",
+    ".vscode"
+  ]
 }

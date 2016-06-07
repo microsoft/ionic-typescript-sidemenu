@@ -1,4 +1,4 @@
-/// <reference path="../typings/browser.d.ts" />
+/// <reference path="../typings/index.d.ts" />
 class AppCtrl {
     public loginData: any;
     public modal: ionic.modal.IonicModalController;
